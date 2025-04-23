@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+numpy
+# Uncomment below for optional text-to-speech
+# pyttsx3
